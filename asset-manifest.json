@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactBoxShadow/static/css/main.5e6c7722.chunk.css",
+    "main.js": "/ReactBoxShadow/static/js/main.2cb8996e.chunk.js",
+    "main.js.map": "/ReactBoxShadow/static/js/main.2cb8996e.chunk.js.map",
+    "runtime-main.js": "/ReactBoxShadow/static/js/runtime-main.e07cbee2.js",
+    "runtime-main.js.map": "/ReactBoxShadow/static/js/runtime-main.e07cbee2.js.map",
+    "static/js/2.f411355a.chunk.js": "/ReactBoxShadow/static/js/2.f411355a.chunk.js",
+    "static/js/2.f411355a.chunk.js.map": "/ReactBoxShadow/static/js/2.f411355a.chunk.js.map",
+    "index.html": "/ReactBoxShadow/index.html",
+    "static/css/main.5e6c7722.chunk.css.map": "/ReactBoxShadow/static/css/main.5e6c7722.chunk.css.map",
+    "static/js/2.f411355a.chunk.js.LICENSE.txt": "/ReactBoxShadow/static/js/2.f411355a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e07cbee2.js",
+    "static/js/2.f411355a.chunk.js",
+    "static/css/main.5e6c7722.chunk.css",
+    "static/js/main.2cb8996e.chunk.js"
+  ]
+}
